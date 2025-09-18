@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #SBATCH -p smfletch
 #SBATCH --job-name=demo
